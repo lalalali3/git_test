@@ -5,5 +5,6 @@ public class Main {
         System.out.println("hot-fix first commit");
         System.out.println("hot-fix conflict");
         System.out.println("mast_conflict");
+        System.out.println("push test");
     }
 }
